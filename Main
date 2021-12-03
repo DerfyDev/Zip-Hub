@@ -1,5 +1,5 @@
 if game.PlaceId == 155615604 then
-    loadstring(game:HttpGet(('https://raw.githubusercontent.com/XxSpikeChixX/Zip-Hub/main/Prison%20Life'),true))() -- Prison Life
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/XxSpikeChixX/Zip-Hub/main/Prison%20Life'),true))()
 else
     loadstring(game:HttpGet(('https://raw.githubusercontent.com/XxSpikeChixX/Zip-Hub/main/Unsupported%20Games'),true))()
 end
