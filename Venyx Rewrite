@@ -2168,5 +2168,5 @@ do
 	end
 end
 
-print("Successfully Loaded)")
+print("Successfully Loaded")
 return library
