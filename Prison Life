@@ -99,7 +99,7 @@ if game.PlaceId == 155615604 then
 		tool3.BinType = "Grab"
 	end)
 
-	MainSection:addDropdown("Dropdown", {"Criminal", "Neutral", "Gaurd", "Inmate", 1, 2, 3}, function(v)
+	MainSection:addDropdown("Change Team", {"Criminal", "Neutral", "Gaurd", "Inmate", 1, 2, 3}, function(v)
 		if v == "Criminal" then
 			local weld02 = game.Players.LocalPlayer.Character.HumanoidRootPart.Position
 			game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-919.958, 95.327, 2138.189)
