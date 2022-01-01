@@ -1,5 +1,8 @@
 if game.PlaceId == 155615604 then
     loadstring(game:HttpGet(('https://raw.githubusercontent.com/XxSpikeChixX/Zip-Hub/main/Prison%20Life'),true))()
+    
+if game.PlaceId == 3101667897 then
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/XxSpikeChixX/Zip-Hub/main/Speed%20Of%20Legends))()
 else
     loadstring(game:HttpGet(('https://raw.githubusercontent.com/XxSpikeChixX/Zip-Hub/main/Unsupported%20Games'),true))()
 end
