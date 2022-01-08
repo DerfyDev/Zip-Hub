@@ -1,11 +1,11 @@
 if game.PlaceId == 155615604 then
-    loadstring(game:HttpGet(('https://raw.githubusercontent.com/XxSpikeChixX/Zip-Hub/main/Prison%20Life'), true))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/DerfyDev/Zip-Hub/main/Prison%20Life", true))()
 end
 if game.PlaceId == 2248408710 then
-    loadstring(game:HttpGet(('https://raw.githubusercontent.com/XxSpikeChixX/Zip-Hub/main/Destruction%20Simulator'), true))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/DerfyDev/Zip-Hub/main/Destruction%20Simulator", true))()
 end
 if game.PlaceId == 3101667897 then
-    loadstring(game:HttpGet(('https://raw.githubusercontent.com/XxSpikeChixX/Zip-Hub/main/Speed%20Of%20Legends'), true))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/DerfyDev/Zip-Hub/main/Speed%20Of%20Legends", true))()
 else
-    loadstring(game:HttpGet(('https://raw.githubusercontent.com/XxSpikeChixX/Zip-Hub/main/Unsupported%20Games'), true))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/DerfyDev/Zip-Hub/main/Unsupported%20Games", true))()
 end
